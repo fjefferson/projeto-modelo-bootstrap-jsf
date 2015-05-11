@@ -1,6 +1,8 @@
 projeto-modelo-bootstrap-jsf
 ============================
 
-Modelo BÃ¡sico de um layout em Bootstrap para JAVA, PrimeFaces
+Modelo Básico de um layout em Bootstrap para JAVA, PrimeFaces
 
-Em andamento: ConfiguraÃ§Ã£o Hibernate com Jocelio Lima.
+Em andamento: Configuração Hibernate com Jocelio Lima.
+
+Tela de login em contrução.
